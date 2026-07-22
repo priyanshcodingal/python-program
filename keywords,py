@@ -1,0 +1,8 @@
+import keyword
+print(keyword.kwlist)
+Password ="123123"
+userpass = input("enter password ")
+if userpass == Password:
+    print("acess granted")
+else:
+    print("access deineied")
