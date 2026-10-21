@@ -6,7 +6,7 @@ class revrsestr:
     def str1(self):
         print(self.string1[::-1])
         
-ob = revrsestr("codingal")
+ob = revrsestr("codingal178727912289488dhbnbdbna")
 ob.str1()
         
 
